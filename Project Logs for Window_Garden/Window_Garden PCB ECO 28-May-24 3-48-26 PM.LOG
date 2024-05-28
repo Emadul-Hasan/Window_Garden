@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=P6 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=P1 Old Footprint=691312510003 New Footprint=691312510003
+Change Component Footprint: Designator=P2 Old Footprint=691312510003 New Footprint=691312510003
+Change Component Footprint: Designator=P3 Old Footprint=691312510003 New Footprint=691312510003
+Change Component Footprint: Designator=P4 Old Footprint=691312510003 New Footprint=691312510003
+Change Component Footprint: Designator=P5 Old Footprint=691312510003 New Footprint=691312510003
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-4
+Added Room: Name=Window_Garden
